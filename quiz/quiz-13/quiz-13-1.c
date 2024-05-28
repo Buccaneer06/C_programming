@@ -25,6 +25,6 @@ int main()
 
         len = mystrlen(str);
 
-        printf("문자열의 길이: %d\n", len);
+        printf("len=%d\n", len);
     }
 }
